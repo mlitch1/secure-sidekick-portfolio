@@ -27,7 +27,7 @@ Live site: https://www.securesidekick.org
 
 ## Screenshots
 
-
+![Homepage](homepage.png)
 
 ## Notes
 
